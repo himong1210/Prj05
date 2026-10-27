@@ -1,5 +1,5 @@
 package ex08;
-// abstract(추상) class
+// abstract(추상) class를 이용한 다형성 구현 방법2
 abstract class Animal {
 	
 	String name;
